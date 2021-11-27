@@ -1,0 +1,5 @@
+101, Arthur Morgan, Legendary, USA, 56, 5,3,4,4,5, Colt M1873, 3.1
+102, John Marston, Rare, USA, 43, 4,4,4,3,4, Colt M1892, 2.8
+103, Micah Bell, Common, USA, 52, 2,3,1,2,5, Colt M1851, 0.9
+104, Charles Smith, Uncommon, Mexico, 45, 3,4,2,4,3, Smith&Wesson Model 3, 1.8
+105, Lenny Summers, Uncommon, South Africa, 35, 1,4,5,2,2, Smith&Wesson Model 500, 1.2

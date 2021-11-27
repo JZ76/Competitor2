@@ -1,0 +1,5 @@
+01, MIchael Townley, Uncommon, USA, 61, 4,3,4,4,5, Pfister Comet, Sports
+02, Franklin Clinton, Rare, South Africa, 34, 5,5,5,5,5, Truffade Adder, Super
+03, Isiah Friedlander, Common, UK, 52, 2,1,2,3,1, Enus Paragon, Drift
+04, Dave Norton, Uncommon, USA, 56, 3,1,3,2,4, Vapid Dominator, Muscle
+05, Lamar Davis, Uncommon,  Mexico, 28, 3,3,4,2,1, Benefactor Dubsta, Off-Road

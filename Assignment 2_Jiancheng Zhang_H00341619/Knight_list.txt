@@ -1,0 +1,4 @@
+1001, aaa bbb ccc, Legendary, France, 29, 4,3,4,4,4, Arabian, plate armor, Lance
+1002, ddd fff, Uncommon, Turkey, 37, 5,2,3,4,2, Missouri Fox Trotter, chain armor, Sword
+1003, ggg hhh, Rare, Poland, 25, 3,4,2,3,4, Turkoman, panoply, War hammer
+1004, eee iii, Common, Spain, 31, 2,1,2,3,3, Ardennes, light armor, Battleaxe
